@@ -9,7 +9,11 @@ body {
     line-height: 1.6;
 }
 
+<<<<<<< HEAD
 /* Navigation */
+=======
+
+>>>>>>> a29de2e (first changes)
 header {
     background: #222;
     padding: 15px 0;
@@ -44,7 +48,11 @@ nav ul li a {
     color: white;
 }
 
+<<<<<<< HEAD
 /* Hero Section */
+=======
+
+>>>>>>> a29de2e (first changes)
 .hero {
     height: 100vh;
     background: linear-gradient(to right, #007BFF, #00C6FF);
@@ -98,7 +106,10 @@ nav ul li a {
     border-radius: 5px;
 }
 
+<<<<<<< HEAD
 /* Projects */
+=======
+>>>>>>> a29de2e (first changes)
 .project-container {
     display: flex;
     justify-content: space-between;
@@ -114,7 +125,11 @@ nav ul li a {
     border-radius: 8px;
 }
 
+<<<<<<< HEAD
 /* Footer */
+=======
+
+>>>>>>> a29de2e (first changes)
 footer {
     background: #222;
     color: white;
